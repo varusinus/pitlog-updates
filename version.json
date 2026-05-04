@@ -1,12 +1,12 @@
 {
-    "version": "1.5.17",
-    "download_url": "",
-    "notes": "Calendar improvements, autocomplete for inputs, native Save As dialog",
-    "message": {
-          "id": "2026-05-04-1.5.17",
-          "type": "release",
-          "title": "PitLog v1.5.17 Released!",
-          "date": "2026-05-04",
-          "body": "Bine ai venit in PitLog!\n\nCe este nou in v1.5.17:\n- Calendar: Week P&L, Year P&L, coloana weekly totals\n- Autocomplete pentru Setup, Tags si Symbol\n- Native Save As dialog la export\n- Restore imbunatatit\n\nFoloseste link-ul din emailul original de cumparatura pentru a descarca ultima versiune."
-    }
+  "version": "1.5.17",
+  "download_url": "https://pitlog.io/download/PitLog_Setup_1.5.17.exe",
+  "notes": "Calendar improvements, autocomplete, native Save As dialog",
+  "message": {
+    "id": "2026-05-04-1.5.17",
+    "type": "release",
+    "title": "PitLog v1.5.17 Released 🚀",
+    "date": "2026-05-04",
+    "body": "What's new in v1.5.17:\n\n - Calendar: Week P&L, Year P&L, and weekly totals column\n - Autocomplete history for Setup, Tags, and Symbol fields\n - Native Save As dialog for exports\n - Improved restore reliability\n\nIf you've already purchased PitLog, you don't need a new link — simply use the download link from your original purchase confirmation email and you'll automatically get the latest version."
+  }
 }
