@@ -1,12 +1,12 @@
 {
-  "version": "1.5.17",
+  "version": "1.5.18",
   "download_url": "https://pitlog.io/download/PitLog_Setup_1.5.17.exe",
   "notes": "Calendar improvements, autocomplete, native Save As dialog",
   "message": {
-    "id": "2026-05-05-1.5.17",
+    "id": "2026-05-05-1.5.18",
     "type": "release",
-    "title": "PitLog v1.5.17 Released 🚀",
+    "title": "PitLog v1.5.18 Released 🚀",
     "date": "2026-05-05",
-    "body": "What's new in v1.5.17:\n\n - Calendar: Week P&L, Year P&L, and weekly totals column\n - Autocomplete history for Setup, Tags, and Symbol fields\n - Native Save As dialog for exports\n - Improved restore reliability\n\nIf you've already purchased PitLog, you don't need a new link — simply use the download link from your original purchase confirmation email and you'll automatically get the latest version."
+    "body": "What's new in v1.5.18:\n\n🔔 Update notifications — a bell icon in the top bar now alerts you when a new version is available\n\nAutocomplete fixes — tag selection no longer adds a trailing comma, dropdown closes correctly on scroll\n\nDismiss suggestion (✕) now removes items from your history only — past trade values remain available\n\nIf you've already purchased PitLog, you don't need a new link — simply use the download link from your original purchase confirmation email and you'll automatically get the latest version."
   }
 }
