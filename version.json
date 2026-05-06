@@ -1,12 +1,12 @@
 {
-  "version": "1.5.18",
+  "version": "1.5.20",
   "download_url": "https://pitlog.io/download/PitLog_Setup_1.5.17.exe",
-  "notes": "Calendar improvements, autocomplete, native Save As dialog",
+  "notes": "",
   "message": {
-    "id": "2026-05-05-1.5.18",
+    "id": "2026-05-06-1.5.20",
     "type": "release",
-    "title": "PitLog v1.5.18 Released 🚀",
-    "date": "2026-05-05",
-    "body": "What's new in v1.5.18:\n\n🔔 Update notifications — a bell icon in the top bar now alerts you when a new version is available\n\nAutocomplete fixes — tag selection no longer adds a trailing comma, dropdown closes correctly on scroll\n\nDismiss suggestion (✕) now removes items from your history only — past trade values remain available\n\nIf you've already purchased PitLog, you don't need a new link — simply use the download link from your original purchase confirmation email and you'll automatically get the latest version."
+    "title": "PitLog v1.5.20 Released 🚀",
+    "date": "2026-05-06",
+    "body": "A focused update with fixes and improvements across the board:\n\n- Account Hide / Unhide — hidden accounts now correctly disappear from Trade Log, Prop Firm Tracker, and all views\n- Prop Firm: MLL buffer bar now shows visually how much buffer remains after a withdrawal\n- Prop Firm: MLL floor correctly fixed at starting balance after withdrawals\n- Prop Firm: Payout Rules now shows total amount extracted across all withdrawals\n- Manual trades: editing price, quantity or side now correctly recalculates P&L\n- Cycle filter: trades made on the same day as a withdrawal are now included correctly\n- Backup: export now saves as .zip (database + screenshots), restore shows a clear restart prompt\n- Setup wizard: new Skip button for experienced users\n\n📧 Use the download link from your original Payhip purchase email to get the latest version."
   }
 }
