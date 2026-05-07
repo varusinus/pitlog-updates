@@ -1,12 +1,12 @@
 {
-  "version": "1.5.20",
+  "version": "1.5.25",
   "download_url": "https://pitlog.io/download/PitLog_Setup_1.5.17.exe",
-  "notes": "",
+  "notes": "Calendar improvements, autocomplete, native Save As dialog",
   "message": {
-    "id": "2026-05-06-1.5.20",
+    "id": "2026-05-07-1.5.25",
     "type": "release",
-    "title": "PitLog v1.5.20 Released 🚀",
-    "date": "2026-05-06",
-    "body": "A focused update with fixes and improvements across the board:\n\n- Account Hide / Unhide — hidden accounts now correctly disappear from Trade Log, Prop Firm Tracker, and all views\n- Prop Firm: MLL buffer bar now shows visually how much buffer remains after a withdrawal\n- Prop Firm: MLL floor correctly fixed at starting balance after withdrawals\n- Prop Firm: Payout Rules now shows total amount extracted across all withdrawals\n- Manual trades: editing price, quantity or side now correctly recalculates P&L\n- Cycle filter: trades made on the same day as a withdrawal are now included correctly\n- Backup: export now saves as .zip (database + screenshots), restore shows a clear restart prompt\n- Setup wizard: new Skip button for experienced users\n\n📧 Use the download link from your original Payhip purchase email to get the latest version."
+    "title": "PitLog v1.5.25 Released 🚀",
+    "date": "2026-05-07",
+    "body": "PitLog v1.5.25 Released 🚀\n2026-05-07\nA focused update with improvements to the Prop Firm Tracker, Trade Log, and the overall experience:\n\nProp Firm (Rithmic): Live Threshold is now read directly from your Trader Dashboard CSV — real value from your prop firm, not a simulation\nProp Firm (Rithmic): buffer remaining is shown on the card (e.g. \"$941 left\") and updates with each import\nProp Firm (Rithmic): a timestamp shows when the threshold was last imported\nRithmic import: now requires two CSVs (Positions + Trader Dashboard) — commission is calculated automatically, no manual entry\nRithmic parser: multi-section files now import correctly; Cancelled/Rejected orders are skipped automatically\nRithmic parser: partial fill FIFO fix — remaining lots are kept in the queue with proportional commission\nTrade Log: bulk delete — select one or more trades and remove them all at once\nUI: all text is now in English throughout the app\n\n🔗 Use the download link from your original Payhip purchase email to get the latest version."
   }
 }
