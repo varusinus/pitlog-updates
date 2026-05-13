@@ -1,12 +1,12 @@
 {
-  "version": "1.5.25",
-  "download_url": "https://pitlog.io/download/PitLog_Setup_1.5.17.exe",
-  "notes": "Calendar improvements, autocomplete, native Save As dialog",
+  "version": "1.6.3",
+  "download_url": "",
+  "notes": "",
   "message": {
-    "id": "2026-05-07-1.5.25",
+    "id": "2026-05-13-1.6.3",
     "type": "release",
-    "title": "PitLog v1.5.25 Released 🚀",
-    "date": "2026-05-07",
-    "body": "PitLog v1.5.25 Released 🚀\n2026-05-07\nA focused update with improvements to the Prop Firm Tracker, Trade Log, and the overall experience:\n\nProp Firm (Rithmic): Live Threshold is now read directly from your Trader Dashboard CSV — real value from your prop firm, not a simulation\nProp Firm (Rithmic): buffer remaining is shown on the card (e.g. \"$941 left\") and updates with each import\nProp Firm (Rithmic): a timestamp shows when the threshold was last imported\nRithmic import: now requires two CSVs (Positions + Trader Dashboard) — commission is calculated automatically, no manual entry\nRithmic parser: multi-section files now import correctly; Cancelled/Rejected orders are skipped automatically\nRithmic parser: partial fill FIFO fix — remaining lots are kept in the queue with proportional commission\nTrade Log: bulk delete — select one or more trades and remove them all at once\nUI: all text is now in English throughout the app\n\n🔗 Use the download link from your original Payhip purchase email to get the latest version."
+    "title": "PitLog v1.6.3 Released 🚀",
+    "date": "2026-05-13",
+    "body": "PitLog v1.6.3 — Playbooks & Per-Rule Analytics\nThis update adds the Playbook system — a way to build named trading strategies with custom rule checklists, then measure how those rules actually affect your results.\nWhat's new since v1.5.25:\n📒 Playbooks — Create strategies with a name, color, and custom rules. Assign a Playbook to any trade directly from the trade modal.\n✅ Rules Compliance — See per-rule compliance rates across all your trades, plus win rate and avg P&L when each rule was checked vs. skipped. Know which rules actually matter.\n🗂️ Rule Categories — Group your rules into categories (Entry, Risk, Exit, Psychology). Compliance is tracked per category so you can pinpoint exactly where discipline breaks down.\n🎯 Per-Rule Impact Analytics — Inside each Playbook, every rule shows its compliance %, win rate checked vs. skipped, ΔWR correlation, avg P&L, and an Impact Score. Rules with the highest behavioral edge get a 🎯 High Impact badge.\n\n⚠️ To download v1.6.3: Check the first email you received from Payhip when you purchased — it contains your download link. Use that link to get the latest installer."
   }
 }
