@@ -1,12 +1,12 @@
 {
-  "version": "1.6.3",
+  "version": "1.6.5",
   "download_url": "",
   "notes": "",
   "message": {
-    "id": "2026-05-13-1.6.3",
+    "id": "2026-05-28-1.6.5",
     "type": "release",
-    "title": "PitLog v1.6.3 Released 🚀",
-    "date": "2026-05-13",
-    "body": "PitLog v1.6.3 — Playbooks & Per-Rule Analytics\nThis update adds the Playbook system — a way to build named trading strategies with custom rule checklists, then measure how those rules actually affect your results.\nWhat's new since v1.5.25:\n📒 Playbooks — Create strategies with a name, color, and custom rules. Assign a Playbook to any trade directly from the trade modal.\n✅ Rules Compliance — See per-rule compliance rates across all your trades, plus win rate and avg P&L when each rule was checked vs. skipped. Know which rules actually matter.\n🗂️ Rule Categories — Group your rules into categories (Entry, Risk, Exit, Psychology). Compliance is tracked per category so you can pinpoint exactly where discipline breaks down.\n🎯 Per-Rule Impact Analytics — Inside each Playbook, every rule shows its compliance %, win rate checked vs. skipped, ΔWR correlation, avg P&L, and an Impact Score. Rules with the highest behavioral edge get a 🎯 High Impact badge.\n\n⚠️ To download v1.6.3: Check the first email you received from Payhip when you purchased — it contains your download link. Use that link to get the latest installer."
+    "title": "PitLog v1.6.5 Released 🚀",
+    "date": "2026-05-28",
+    "body": "What's new in v1.6.5:\n\n📒 Playbooks — major improvements: rule categories, per-rule analytics (win rate & P&L when followed vs skipped), discipline impact score, and a full Rules Compliance card in Analytics\n📦 Backup now includes your screenshots — restore brings them back too\n📄 Monthly PDF report: 4 new sections (Performance by Session, Hold Time, Top Trades, Rules Compliance)\n📤 Export trades to CSV directly from the Trade Log\n🏢 Prop Firm tab: challenges and presets now save and display correctly\n\n🔧 Import fixed for cTrader, Thinkorswim and Tastytrade\n💰 Day Commission adjustment fixed\n\nTo download v1.6.5, use the personal link from your original Payhip purchase email."
   }
 }
